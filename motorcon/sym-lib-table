@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name motorcon-rescue)(type Legacy)(uri ${KIPRJMOD}/motorcon-rescue.lib)(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-18644815012883251
+18644815628749333
 BCIHP1770HC
 BCIHP1770HC
 
@@ -75480,6 +75480,13 @@ rotary encoder
 0
 5
 4
+SS-12D28L4
+SS-12D28L4
+
+
+0
+3
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -82107,12 +82114,5 @@ WSD30L120DN56
 
 
 0
-0
-0
-ltc6810
-SSOP-44
-
-
-0
-44
-44
+1
+1

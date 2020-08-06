@@ -10,4 +10,5 @@
   (lib (name HCM1104-3R3)(type KiCad)(uri ${KIPRJMOD}/HCM1104-3R3)(options "")(descr ""))
   (lib (name WSD30L120DN56)(type KiCad)(uri ${KIPRJMOD}/WSD30L120DN56/WSD30L120DN56.pretty)(options "")(descr ""))
   (lib (name SS-12D28L4)(type KiCad)(uri ${KIPRJMOD}/SS-12D28L7/SS-12D28L4.pretty)(options "")(descr ""))
+  (lib (name 16R1400GH)(type KiCad)(uri ${KIPRJMOD}/16R1400GH)(options "")(descr ""))
 )

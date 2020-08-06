@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/mia/Projects/maidbot-hardware/motorcon/motorcon.sch)
-    (date "Fri 31 Jul 2020 09:29:13 AM CEST")
+    (source /home/mia/Documents/Neato_Robot/motorcon/motorcon.sch)
+    (date "Fri 31 Jul 2020 09:09:39 PM CEST")
     (tool "Eeschema 5.1.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1161,7 +1161,7 @@
       (tstamp 5FBF4AFA))
     (comp (ref J10)
       (value SWD)
-      (footprint Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical)
+      (footprint Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal)
       (datasheet ~)
       (libsource (lib Connector_Generic) (part Conn_01x04) (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
@@ -1747,7 +1747,7 @@
     (library (logical Transistor_FET)
       (uri /usr/share/kicad/library/Transistor_FET.lib))
     (library (logical motorcon-rescue)
-      (uri /home/mia/Projects/maidbot-hardware/motorcon/motorcon-rescue.lib)))
+      (uri /home/mia/Documents/Neato_Robot/motorcon/motorcon-rescue.lib)))
   (nets
     (net (code 1) (name "Net-(C37-Pad2)")
       (node (ref U7) (pin 13))
